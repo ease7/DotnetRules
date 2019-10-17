@@ -1,12 +1,12 @@
 ## example
 
-不规范的例子：
+Noncompliant Code Example：
 
 ```C#
 
 ```
 
-规范的例子：
+Compliant Solution：
 
 ```C#
 
